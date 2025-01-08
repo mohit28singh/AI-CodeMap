@@ -4,6 +4,9 @@
 # Ignore virtual environment folders
 env/
 venv/
+myenv/
 
 # Ignore Python cache files
 __pycache__/
+*.csv
+
